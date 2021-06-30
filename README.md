@@ -9,10 +9,11 @@
 <p>Sisteminha criado, na linguagem C, para a avaliação final/ 1º Semestre - Na disciplina de Programação Estruturada - IFSULDEMINAS</p>
 
 
-<p>Contatos
+<h3>Contatos</h3>
+
 André Alves: andrealves-tec@hotmail.com
 
 Linkedin: https://www.linkedin.com/in/andrealves8/
 
-Linkedin: https://github.com/andrealves8</p>
+Github: https://github.com/andrealves8
 
